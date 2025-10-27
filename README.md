@@ -1,2 +1,2 @@
-# my-first-github-repo
-A Git &amp; GitHub (GUI) workshop :)
+# Hi im lara
+This is my first github repo
