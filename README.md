@@ -8,3 +8,4 @@ This is my first github repo
 # Fun facts about me
 - I like pokemon
 - I like star wars
+- I like dogs
